@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Undergraduate computer science student with a previous degree in a combined major in science specializing in the fields of life sciences, earth and ocean sciences, and chemistry
 
-Huge beginner in CS but ready to learn as much as I possibly can.
+Beginner in CS but ready to learn as much as I possibly can.
 
 Currently discovering the field of computer science and IT and looking to find the niche area that interests me the most. Leaning towards software development, HCI, and machine learning but finding new things that interest me every day.
 
